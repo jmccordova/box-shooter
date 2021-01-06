@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"publi",
+				"published_date"
+			],
+			[
+				"descro",
+				"description"
+			],
+			[
+				"filter_",
+				"filter_input"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Scripts/BasicTargetMover.cs",
+			"settings":
+			{
+				"buffer_size": 703,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jmcco/Box Shooter/Assets",
+		"/C/Users/jmcco/Box Shooter/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/jmcco/Box Shooter/Assets/BasicTargetMover.cs",
+		"/C/Users/jmcco/Box Shooter/Assets/BasicMover.cs",
+		"/C/Users/jmcco/Box Shooter/Assets/Box Shooter.sublime-project",
+		"/C/xampp/htdocs/gad7/application/views/calculator/result.php",
+		"/C/xampp/htdocs/gad7/application/views/calculator/index.php",
+		"/C/xampp/htdocs/gad7/application/views/welcome_message.php",
+		"/C/Users/jmcco/Downloads/calculate.php",
+		"/C/Users/jmcco/Solar System Simulation/Build/WebGL/Solar System/index.html",
+		"/C/Users/jmcco/Downloads/601424_models/601424_models/601424.model_summary",
+		"/C/Users/jmcco/Downloads/601424_models/601424_models/0README",
+		"/C/xampp/htdocs/steam/charedit.php",
+		"/C/xampp/htdocs/ALMENOR_ALVARADOScore.php",
+		"/C/xampp/htdocs/gad7/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/gad7/application/controllers/Calculator.php",
+		"/C/xampp/htdocs/gad7/application/models/calculator/Calculator_model.php",
+		"/C/xampp/htdocs/gad7/assets/css/icon.css",
+		"/C/xampp/htdocs/gad7/application/config/config.php",
+		"/C/xampp/htdocs/gad7/assets/css/materialize.css",
+		"/C/xampp/htdocs/gad7/application/config/autoload.php",
+		"/C/xampp/htdocs/registrationv1/index.php",
+		"/C/Users/jmcco/Downloads/registrationv1/registration (1).sql",
+		"/C/Users/jmcco/Downloads/css_js.html",
+		"/C/xampp/htdocs/Cordova-Proposal.php",
+		"/C/xampp/htdocs/gad7/application/models/Calculator_model.php",
+		"/C/xampp/htdocs/gad7/index.php",
+		"/C/xampp/htdocs/gad7/.htaccess",
+		"/C/xampp/htdocs/gad7/views/calculator.php",
+		"/C/xampp/htdocs/gad7/globals.php",
+		"/C/xampp/htdocs/gad7/controllers/Calculator.php",
+		"/C/xampp/htdocs/gad7/views/welcome.php",
+		"/C/Users/jmcco/Downloads/gad7/application/views/welcome_message.php",
+		"/C/xampp/htdocs/gad7/calculator.php",
+		"/C/xampp/htdocs/gad7/result.php",
+		"/C/xampp/htdocs/gad7/env"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.8,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Scripts/BasicTargetMover.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 103.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Box Shooter.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"welc",
+				"application\\views\\welcome_message.php"
+			],
+			[
+				"welcom",
+				"application\\views\\welcome_message.php"
+			],
+			[
+				"we",
+				"application\\controllers\\Welcome.php"
+			],
+			[
+				"calcula",
+				"application\\models\\calculator\\Calculator_model.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"autolo",
+				"application\\config\\autoload.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
